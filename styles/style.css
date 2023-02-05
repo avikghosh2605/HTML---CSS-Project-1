@@ -14,8 +14,6 @@ body {
   background-attachment: fixed;
 }
 
-/* ------ NAVBAR ------- */
-
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -54,9 +52,6 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-
-/* ------- HERO ------ */
-
 
 .hero {
   max-width: 1154px;
